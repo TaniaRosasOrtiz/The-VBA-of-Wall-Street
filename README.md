@@ -1,2 +1,2 @@
-# The-VBA-of-Wall-Street
+# VBA-challenge
 VBA scripting to analyze real stock market data
